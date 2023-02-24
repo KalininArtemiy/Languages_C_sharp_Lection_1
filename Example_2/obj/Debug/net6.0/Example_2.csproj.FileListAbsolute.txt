@@ -3,3 +3,13 @@ C:\Users\kalin\OneDrive\Рабочий стол\Программирование
 C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\obj\Debug\net6.0\Example_2.AssemblyInfoInputs.cache
 C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\obj\Debug\net6.0\Example_2.AssemblyInfo.cs
 C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\obj\Debug\net6.0\Example_2.csproj.CoreCompileInputs.cache
+C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\bin\Debug\net6.0\Example_2.exe
+C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\bin\Debug\net6.0\Example_2.deps.json
+C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\bin\Debug\net6.0\Example_2.runtimeconfig.json
+C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\bin\Debug\net6.0\Example_2.dll
+C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\bin\Debug\net6.0\Example_2.pdb
+C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\obj\Debug\net6.0\Example_2.dll
+C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\obj\Debug\net6.0\refint\Example_2.dll
+C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\obj\Debug\net6.0\Example_2.pdb
+C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\obj\Debug\net6.0\Example_2.genruntimeconfig.cache
+C:\Users\kalin\OneDrive\Рабочий стол\Программирование\1 четверть\Languages C#\Lesson_1\Lection\Example_2\obj\Debug\net6.0\ref\Example_2.dll
